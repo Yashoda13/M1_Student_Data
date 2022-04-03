@@ -9,8 +9,8 @@
 
 #   Objectives
 
-   This simple mini project for Student data  creates an external file to store the user’s data permanently to perform file handling operations. 
-   This is the features of Student data System, which is we can add student data, search student data, update student data and can delete student data.
+    This simple mini project for Student data  creates an external file to store the user’s data permanently to perform file handling operations. 
+    This is the features of Student data System, which is we can add student data, search student data, update student data and can delete student data.
    
 #   Benifits
 
