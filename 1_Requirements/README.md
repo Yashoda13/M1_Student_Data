@@ -14,10 +14,10 @@
    
 #   Benifits
 
-    . Efficient Management And Organization of Timetables.
-    . Helps To Keep Track Of All Students.
-    . Reduction Of Human Labour, Papers and Workload.
-    . Helps Build A Strong Alumni.
+    1. Efficient Management And Organization of Timetables.
+    2. Helps To Keep Track Of All Students.
+    3. Reduction Of Human Labour, Papers and Workload.
+    4. Helps Build A Strong Alumni.
    
    
 
